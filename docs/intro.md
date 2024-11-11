@@ -42,9 +42,3 @@ Para isso, os endereços são:
 Todo nosso ambiente de **produção** está hospedado na AWS.
 
 ### [TBD]
-
-## Microsserviços:
-
-Nosso ecossistema foi construido em microsserviços.
-
-Para saber mais sobre, acesse [aqui!](/docs/microsservicos)

@@ -17,8 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'addagroup', // Usually your GitHub org/user name.
-  projectName: 'adda', // Usually your repo name.
+  organizationName: 'ADAGroupTcc', // Usually your GitHub org/user name.
+  projectName: 'doc', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

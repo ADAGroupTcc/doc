@@ -12,13 +12,13 @@ const config = {
   tagline: 'Adda behind the screens. Go through our backend documentation.',
   favicon: 'img/logo.svg',
 
-  url: 'https://adda-group-documentation.com',
-  baseUrl: '/',
+  url: 'https://addagrouptcc.github.io',
+  baseUrl: '/doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'addagroup', // Usually your GitHub org/user name.
-  projectName: 'adda', // Usually your repo name.
+  organizationName: 'adagrouptcc', // Usually your GitHub org/user name.
+  projectName: 'doc', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -27,8 +27,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'br',
-    locales: ['br'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
 
   presets: [

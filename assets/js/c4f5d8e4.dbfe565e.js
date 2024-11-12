@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[634],{192:(e,o,t)=>{t.r(o),t.d(o,{default:()=>d});var s=t(6347),c=t(4848);function d(){return console.log("Redirecting to /doc/docs/intro.md"),(0,c.jsx)(s.rd,{to:"/doc/docs/intro"})}}}]);

@@ -44,6 +44,7 @@ Não é necessário eviar um body para a requisição.
       "nickname": "string",
       "email": "string",
       "cpf": "string",
+      "location": [0, 0],
       "categories": ["string", "string", "string"],
       "is_denunciated": false
     },
@@ -56,6 +57,7 @@ Não é necessário eviar um body para a requisição.
       "nickname": "string",
       "email": "string",
       "cpf": "string",
+      "location": [0, 0],
       "categories": ["string", "string", "string"],
       "is_denunciated": false
     }
@@ -84,6 +86,7 @@ Status:
       "nickname": "string",
       "email": "string",
       "cpf": "string",
+      "location": [0, 0],
       "categories": [
         {
           "id": "string",
